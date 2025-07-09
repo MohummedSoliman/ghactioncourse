@@ -1,0 +1,6 @@
+name: workflow on pull request
+on:
+  push:
+    branches:
+      - main
+      - "release/**"
