@@ -1,6 +1,5 @@
 function greet(name) {
-    console.log("update this function");
-    return `Hello ${name}!`;
+    return `Hello, ${name}`;
 }
 
 module.exports = greet;
